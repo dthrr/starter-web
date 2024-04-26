@@ -1,0 +1,104 @@
+[33mcommit 67be25369b3f7d06467a5acb4a7d825727acd78c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Diether Bulan <dietherbulan@gmail.com>
+Date:   Fri Apr 26 18:33:34 2024 +0800
+
+    deleting level1 and all children
+
+[33mcommit 11e79b9398b6d195e97dcef453b1dbdfdc4baef6[m
+Author: Diether Bulan <dietherbulan@gmail.com>
+Date:   Fri Apr 26 18:31:45 2024 +0800
+
+    deleted hipster.txt file
+
+[33mcommit 3a2a20aa66daa11e6768fb362298d8f30389b921[m
+Author: Diether Bulan <dietherbulan@gmail.com>
+Date:   Fri Apr 26 18:27:01 2024 +0800
+
+    Deleting new file
+
+[33mcommit 998b81956f1fb72b80aa67d31c0960a7b2e167a6[m
+Author: Diether Bulan <dietherbulan@gmail.com>
+Date:   Fri Apr 26 18:22:18 2024 +0800
+
+    Renaming level1 file
+
+[33mcommit 8d188c7aaf3f376253e5f3eb5ea48229382c1876[m
+Author: Diether Bulan <dietherbulan@gmail.com>
+Date:   Fri Apr 26 18:18:34 2024 +0800
+
+    Moving level2 file to level2 directory
+
+[33mcommit ff53479f28caa89afdeb86550e526b3ef3ba1cc2[m
+Author: Diether Bulan <dietherbulan@gmail.com>
+Date:   Fri Apr 26 18:16:14 2024 +0800
+
+    Moving file from level2 to level3
+
+[33mcommit 3d3fadd3f7ef18155643395a01136a8bf11a2ef8[m
+Author: Diether Bulan <dietherbulan@gmail.com>
+Date:   Fri Apr 26 18:12:07 2024 +0800
+
+    Renaming level2File
+
+[33mcommit 1520c6ec44f89f941ef73c4bbc0ccee170cca3d5[m
+Author: Diether Bulan <dietherbulan@gmail.com>
+Date:   Fri Apr 26 18:10:13 2024 +0800
+
+    renaming level3file
+
+[33mcommit 04cbf0d1340dc0805fc713d763a3c908cd3f6b91[m
+Author: Diether Bulan <dietherbulan@gmail.com>
+Date:   Fri Apr 26 17:59:40 2024 +0800
+
+    Adding several files recursively
+
+[33mcommit 9afc30d314de1d5b0f43a9ae157b303779232e56[m
+Author: Diether Bulan <dietherbulan@gmail.com>
+Date:   Fri Apr 26 17:51:22 2024 +0800
+
+    more ipsum for hipster
+
+[33mcommit 5365dca67b9510bd92e8a63f1468c62c72009569[m
+Author: Diether Bulan <dietherbulan@gmail.com>
+Date:   Fri Apr 26 17:48:16 2024 +0800
+
+    Adding new file
+
+[33mcommit 2bfc8a351e5a97af85ff77b9844274a021a96254[m
+Author: Diether Bulan <dietherbulan@gmail.com>
+Date:   Fri Apr 26 17:41:30 2024 +0800
+
+    Adding more ipsum text
+
+[33mcommit 973b2ec854708ca201da67abd6feddc8be6a64b6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Diether Bulan <dietherbulan@gmail.com>
+Date:   Fri Apr 26 17:31:00 2024 +0800
+
+    My first commit
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
